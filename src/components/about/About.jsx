@@ -63,8 +63,8 @@ const About = () => {
             <h5>Experience</h5>
             <h4>•ComData</h4>
             <h5>Frontend Developer</h5>
-            <h4>•Plainly</h4>
-            <h5>Frontend Developer</h5>
+            <h4>•LoadsKing doo</h4>
+            <h5>Web Developer</h5>
 
 
           </article>
